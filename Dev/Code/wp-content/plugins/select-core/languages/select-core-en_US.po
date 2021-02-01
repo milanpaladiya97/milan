@@ -1,0 +1,859 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Select Core v1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-12-23 09:58:42+0000\n"
+"Last-Translator: admin <johndoegravatar@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: helpers.php:187
+#: post-types/portfolio/shortcodes/portfolio-list.php:328
+#: post-types/slider/shortcodes/slider.php:815
+#: post-types/testimonials/shortcodes/testimonials.php:185
+#@ select-core
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: import/class.wordpress-importer.php:143
+#: import/class.wordpress-importer.php:194
+#: import/class.wordpress-importer.php:198
+#: import/class.wordpress-importer.php:207
+#@ select-core
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: import/class.wordpress-importer.php:178
+#@ select-core
+msgid "All done."
+msgstr ""
+
+#: import/class.wordpress-importer.php:178
+#@ select-core
+msgid "Have fun!"
+msgstr ""
+
+#: import/class.wordpress-importer.php:179
+#@ select-core
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: import/class.wordpress-importer.php:199
+#, php-format
+#@ select-core
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: import/class.wordpress-importer.php:215
+#, php-format
+#@ select-core
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: import/class.wordpress-importer.php:240
+#, php-format
+#@ select-core
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: import/class.wordpress-importer.php:266
+#@ select-core
+msgid "Assign Authors"
+msgstr ""
+
+#: import/class.wordpress-importer.php:267
+#@ select-core
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: import/class.wordpress-importer.php:269
+#, php-format
+#@ select-core
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: import/class.wordpress-importer.php:279
+#@ select-core
+msgid "Import Attachments"
+msgstr ""
+
+#: import/class.wordpress-importer.php:282
+#@ select-core
+msgid "Download and import file attachments"
+msgstr ""
+
+#: import/class.wordpress-importer.php:286
+#@ select-core
+msgid "Submit"
+msgstr ""
+
+#: import/class.wordpress-importer.php:299
+#@ select-core
+msgid "Import author:"
+msgstr ""
+
+#: import/class.wordpress-importer.php:310
+#@ select-core
+msgid "or create new user with login name:"
+msgstr ""
+
+#: import/class.wordpress-importer.php:313
+#@ select-core
+msgid "as a new user:"
+msgstr ""
+
+#: import/class.wordpress-importer.php:321
+#@ select-core
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: import/class.wordpress-importer.php:323
+#@ select-core
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: import/class.wordpress-importer.php:324
+#@ select-core
+msgid "- Select -"
+msgstr ""
+
+#: import/class.wordpress-importer.php:374
+#, php-format
+#@ select-core
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: import/class.wordpress-importer.php:425
+#, php-format
+#@ select-core
+msgid "Failed to import category %s"
+msgstr ""
+
+#: import/class.wordpress-importer.php:465
+#, php-format
+#@ select-core
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: import/class.wordpress-importer.php:511
+#: import/class.wordpress-importer.php:652
+#, php-format
+#@ select-core
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: import/class.wordpress-importer.php:537
+#, php-format
+#@ select-core
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: import/class.wordpress-importer.php:559
+#, php-format
+#@ select-core
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: import/class.wordpress-importer.php:618
+#, php-format
+#@ select-core
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: import/class.wordpress-importer.php:783
+#@ select-core
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: import/class.wordpress-importer.php:790
+#, php-format
+#@ select-core
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: import/class.wordpress-importer.php:856
+#@ select-core
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: import/class.wordpress-importer.php:869
+#@ select-core
+msgid "Invalid file type"
+msgstr ""
+
+#: import/class.wordpress-importer.php:913
+#@ select-core
+msgid "Remote server did not respond"
+msgstr ""
+
+#: import/class.wordpress-importer.php:919
+#, php-format
+#@ select-core
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: import/class.wordpress-importer.php:926
+#@ select-core
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: import/class.wordpress-importer.php:931
+#@ select-core
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: import/class.wordpress-importer.php:937
+#, php-format
+#@ select-core
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: import/class.wordpress-importer.php:1038
+#@ select-core
+msgid "Import WordPress"
+msgstr ""
+
+#: import/class.wordpress-importer.php:1045
+#, php-format
+#@ select-core
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: import/class.wordpress-importer.php:1060
+#@ select-core
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: import/class.wordpress-importer.php:1061
+#@ select-core
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: import/parsers.php:42
+#: import/parsers.php:78
+#: import/parsers.php:86
+#@ select-core
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: import/parsers.php:43
+#@ select-core
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: import/parsers.php:90
+#: import/parsers.php:95
+#: import/parsers.php:285
+#: import/parsers.php:474
+#@ select-core
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: import/qode-import.php:41
+#: import/qode-import.php:61
+#@ select-core
+msgid "Content imported successfully"
+msgstr ""
+
+#: import/qode-import.php:58
+#@ select-core
+msgid "An Error Occurred During Import"
+msgstr ""
+
+#: import/qode-import.php:65
+#@ select-core
+msgid "Error loading files"
+msgstr ""
+
+#: import/qode-import.php:76
+#@ select-core
+msgid "Widgets imported successfully"
+msgstr ""
+
+#: import/qode-import.php:95
+#@ select-core
+msgid "Custom sidebars imported successfully"
+msgstr ""
+
+#: import/qode-import.php:101
+#@ select-core
+msgid "Options imported successfully"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:56
+#: post-types/carousels/carousel-register.php:57
+#@ select-core
+msgid "Select Carousel"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:58
+#@ select-core
+msgid "Carousel Items"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:59
+#: post-types/carousels/carousel-register.php:62
+#@ select-core
+msgid "Add New Carousel Item"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:60
+#@ select-core
+msgid "Carousel Item"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:61
+#@ select-core
+msgid "New Carousel Item"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:63
+#@ select-core
+msgid "Edit Carousel Item"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:83
+#: post-types/carousels/carousel-register.php:93
+#@ select-core
+msgid "Carousels"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:84
+#@ select-core
+msgid "Carousel"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:85
+#@ select-core
+msgid "Search Carousels"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:86
+#@ select-core
+msgid "All Carousels"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:87
+#@ select-core
+msgid "Parent Carousel"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:88
+#@ select-core
+msgid "Parent Carousel:"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:89
+#@ select-core
+msgid "Edit Carousel"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:90
+#@ select-core
+msgid "Update Carousel"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:91
+#@ select-core
+msgid "Add New Carousel"
+msgstr ""
+
+#: post-types/carousels/carousel-register.php:92
+#@ select-core
+msgid "New Carousel Name"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:81
+#@ select-core
+msgid "Portfolio"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:82
+#@ select-core
+msgid "Portfolio Item"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:83
+#@ select-core
+msgid "New Portfolio Item"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:84
+#@ select-core
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:85
+#@ select-core
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:103
+#: post-types/portfolio/portfolio-register.php:113
+#@ select-core
+msgid "Portfolio Categories"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:104
+#@ select-core
+msgid "Portfolio Category"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:105
+#@ select-core
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:106
+#@ select-core
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:107
+#@ select-core
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:108
+#@ select-core
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:109
+#@ select-core
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:110
+#@ select-core
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:111
+#@ select-core
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:112
+#@ select-core
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:130
+#: post-types/portfolio/portfolio-register.php:140
+#@ select-core
+msgid "Portfolio Tags"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:131
+#@ select-core
+msgid "Portfolio Tag"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:132
+#@ select-core
+msgid "Search Portfolio Tags"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:133
+#@ select-core
+msgid "All Portfolio Tags"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:134
+#@ select-core
+msgid "Parent Portfolio Tag"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:135
+#@ select-core
+msgid "Parent Portfolio Tags:"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:136
+#@ select-core
+msgid "Edit Portfolio Tag"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:137
+#@ select-core
+msgid "Update Portfolio Tag"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:138
+#@ select-core
+msgid "Add New Portfolio Tag"
+msgstr ""
+
+#: post-types/portfolio/portfolio-register.php:139
+#@ select-core
+msgid "New Portfolio Tag Name"
+msgstr ""
+
+#: post-types/portfolio/shortcodes/templates/portfolio-filter.php:8
+#@ select-core
+msgid "All"
+msgstr ""
+
+#: post-types/slider/shortcodes/slider.php:791
+#@ select-core
+msgid "Sorry, no slides matched your criteria."
+msgstr ""
+
+#: post-types/slider/slider-register.php:53
+#: post-types/slider/slider-register.php:54
+#@ select-core
+msgid "Select Slider"
+msgstr ""
+
+#: post-types/slider/slider-register.php:55
+#@ select-core
+msgid "Slides"
+msgstr ""
+
+#: post-types/slider/slider-register.php:56
+#: post-types/slider/slider-register.php:59
+#@ select-core
+msgid "Add New Slide"
+msgstr ""
+
+#: post-types/slider/slider-register.php:57
+#@ select-core
+msgid "Slide"
+msgstr ""
+
+#: post-types/slider/slider-register.php:58
+#@ select-core
+msgid "New Slide"
+msgstr ""
+
+#: post-types/slider/slider-register.php:60
+#@ select-core
+msgid "Edit Slide"
+msgstr ""
+
+#: post-types/slider/slider-register.php:80
+#: post-types/slider/slider-register.php:90
+#@ select-core
+msgid "Sliders"
+msgstr ""
+
+#: post-types/slider/slider-register.php:81
+#@ select-core
+msgid "Slider"
+msgstr ""
+
+#: post-types/slider/slider-register.php:82
+#@ select-core
+msgid "Search Sliders"
+msgstr ""
+
+#: post-types/slider/slider-register.php:83
+#@ select-core
+msgid "All Sliders"
+msgstr ""
+
+#: post-types/slider/slider-register.php:84
+#@ select-core
+msgid "Parent Slider"
+msgstr ""
+
+#: post-types/slider/slider-register.php:85
+#@ select-core
+msgid "Parent Slider:"
+msgstr ""
+
+#: post-types/slider/slider-register.php:86
+#@ select-core
+msgid "Edit Slider"
+msgstr ""
+
+#: post-types/slider/slider-register.php:87
+#@ select-core
+msgid "Update Slider"
+msgstr ""
+
+#: post-types/slider/slider-register.php:88
+#@ select-core
+msgid "Add New Slider"
+msgstr ""
+
+#: post-types/slider/slider-register.php:89
+#@ select-core
+msgid "New Slider Name"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:10
+#@ select-core
+msgid "Effect on header (dark/light style)"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:21
+#@ select-core
+msgid "Effect on navigation (dark/light style)"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:32
+#@ select-core
+msgid "Show prev/next thumbs (except for side menu or passepartout)"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:44
+#@ select-core
+msgid "Show slide number"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:56
+#@ select-core
+msgid "Parallax effect"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:67
+#@ select-core
+msgid "Breakpoint Coefficients 1 (values: 0-1, default value: 1)"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:71
+#: post-types/slider/tax-custom-fields.php:101
+#: post-types/slider/tax-custom-fields.php:131
+#: post-types/slider/tax-custom-fields.php:161
+#: post-types/slider/tax-custom-fields.php:191
+#: post-types/slider/tax-custom-fields.php:221
+#: post-types/slider/tax-custom-fields.php:251
+#@ select-core
+msgid "Graphic"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:75
+#: post-types/slider/tax-custom-fields.php:105
+#: post-types/slider/tax-custom-fields.php:135
+#: post-types/slider/tax-custom-fields.php:165
+#: post-types/slider/tax-custom-fields.php:195
+#: post-types/slider/tax-custom-fields.php:225
+#: post-types/slider/tax-custom-fields.php:255
+#@ select-core
+msgid "Title"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:79
+#: post-types/slider/tax-custom-fields.php:109
+#: post-types/slider/tax-custom-fields.php:139
+#: post-types/slider/tax-custom-fields.php:169
+#: post-types/slider/tax-custom-fields.php:199
+#: post-types/slider/tax-custom-fields.php:229
+#: post-types/slider/tax-custom-fields.php:259
+#@ select-core
+msgid "Subtitle"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:83
+#: post-types/slider/tax-custom-fields.php:113
+#: post-types/slider/tax-custom-fields.php:143
+#: post-types/slider/tax-custom-fields.php:173
+#: post-types/slider/tax-custom-fields.php:203
+#: post-types/slider/tax-custom-fields.php:233
+#: post-types/slider/tax-custom-fields.php:263
+#@ select-core
+msgid "Text"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:87
+#: post-types/slider/tax-custom-fields.php:117
+#: post-types/slider/tax-custom-fields.php:147
+#: post-types/slider/tax-custom-fields.php:177
+#: post-types/slider/tax-custom-fields.php:207
+#: post-types/slider/tax-custom-fields.php:237
+#: post-types/slider/tax-custom-fields.php:267
+#@ select-core
+msgid "Button"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:92
+#@ select-core
+msgid "screen width > 1600px for 'set1' and 'set2'"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:97
+#@ select-core
+msgid "Breakpoint Coefficients 2 (values: 0-1, default value: 1)"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:122
+#@ select-core
+msgid "screen width = [1200px,1600px] for 'set1', screen width = [1300px,1600px] for 'set2'"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:127
+#@ select-core
+msgid "Breakpoint Coefficients 3 (values: 0-1, default value: 0.8)"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:152
+#@ select-core
+msgid "screen width = [900px,1200px] for 'set1', screen width = [1000px,1300px] for 'set2'"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:157
+#@ select-core
+msgid "Breakpoint Coefficients 4 (values: 0-1, default value: 0.7)"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:182
+#@ select-core
+msgid "screen width = [650px,900px] for 'set1', screen width = [768px,1000px] for 'set2'"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:187
+#@ select-core
+msgid "Breakpoint Coefficients 5 (values: 0-1, default value: 0.6)"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:212
+#@ select-core
+msgid "screen width = [500px,650px] for 'set1', screen width = [567px,768px] for 'set2'"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:217
+#@ select-core
+msgid "Breakpoint Coefficients 6 (values: 0-1, default value: 0.5)"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:242
+#@ select-core
+msgid "screen width = [320px,500px] for 'set1', screen width = [320px,567px] for 'set2'"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:247
+#@ select-core
+msgid "Breakpoint Coefficients 7 (values: 0-1, default value: 0.4)"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:272
+#@ select-core
+msgid "screen width < 320px for 'set1' and 'set2'"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:277
+#@ select-core
+msgid "Slider shortcode"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:281
+#@ select-core
+msgid "Use this shortcode to insert it on page"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:311
+#@ select-core
+msgid "Name"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:312
+#@ select-core
+msgid "Shortcode"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:313
+#@ select-core
+msgid "Slug"
+msgstr ""
+
+#: post-types/slider/tax-custom-fields.php:314
+#@ select-core
+msgid "Posts"
+msgstr ""
+
+#: post-types/testimonials/shortcodes/testimonials.php:117
+#@ select-core
+msgid "Speed of slide animation in miliseconds"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:54
+#@ select-core
+msgid "Testimonials"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:55
+#@ select-core
+msgid "Testimonial"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:56
+#@ select-core
+msgid "New Testimonial"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:57
+#@ select-core
+msgid "Add New Testimonial"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:58
+#@ select-core
+msgid "Edit Testimonial"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:78
+#: post-types/testimonials/testimonials-register.php:88
+#@ select-core
+msgid "Testimonials Categories"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:79
+#@ select-core
+msgid "Testimonial Category"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:80
+#@ select-core
+msgid "Search Testimonials Categories"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:81
+#@ select-core
+msgid "All Testimonials Categories"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:82
+#@ select-core
+msgid "Parent Testimonial Category"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:83
+#@ select-core
+msgid "Parent Testimonial Category:"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:84
+#@ select-core
+msgid "Edit Testimonials Category"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:85
+#@ select-core
+msgid "Update Testimonials Category"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:86
+#@ select-core
+msgid "Add New Testimonials Category"
+msgstr ""
+
+#: post-types/testimonials/testimonials-register.php:87
+#@ select-core
+msgid "New Testimonials Category Name"
+msgstr ""
+

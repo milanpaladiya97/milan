@@ -1,0 +1,141 @@
+[01-Jul-2019 09:33:09 UTC] PHP Notice:  Undefined index: email in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 3
+[01-Jul-2019 09:33:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shortcode() in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 4
+[01-Jul-2019 09:33:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shortcode() in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 4
+[01-Jul-2019 09:34:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shortcode() in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 4
+[01-Jul-2019 09:36:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shortcode() in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 4
+[01-Jul-2019 09:36:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shortcode() in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 4
+[01-Jul-2019 09:37:12 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 8
+[01-Jul-2019 09:37:13 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 8
+[01-Jul-2019 09:37:29 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 8
+[01-Jul-2019 09:37:36 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 8
+[01-Jul-2019 09:38:05 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 8
+[01-Jul-2019 09:39:25 UTC] PHP Notice:  Undefined index: email in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 3
+[01-Jul-2019 09:40:05 UTC] PHP Notice:  Undefined index: email in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 3
+[01-Jul-2019 09:40:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shortcode() in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 4
+[01-Jul-2019 09:41:13 UTC] PHP Notice:  Undefined index: email in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 3
+[01-Jul-2019 09:41:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shortcode() in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 4
+[01-Jul-2019 09:41:14 UTC] PHP Notice:  Undefined index: email in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 3
+[01-Jul-2019 09:41:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shortcode() in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 4
+[01-Jul-2019 09:41:26 UTC] PHP Notice:  Undefined index: email in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 3
+[01-Jul-2019 09:41:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shortcode() in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 4
+[01-Jul-2019 09:41:28 UTC] PHP Notice:  Undefined index: email in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 3
+[01-Jul-2019 09:41:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shortcode() in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 4
+[01-Jul-2019 09:43:01 UTC] PHP Notice:  Undefined index: email in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 3
+[01-Jul-2019 09:43:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shortcode() in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 4
+[01-Jul-2019 09:43:03 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 8
+[01-Jul-2019 09:43:04 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 8
+[01-Jul-2019 09:43:05 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 8
+[01-Jul-2019 09:43:28 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 4
+[01-Jul-2019 09:43:29 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 4
+[01-Jul-2019 09:43:30 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 4
+[01-Jul-2019 09:43:50 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 4
+[01-Jul-2019 09:43:51 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 4
+[01-Jul-2019 09:43:52 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 4
+[01-Jul-2019 09:43:52 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 4
+[01-Jul-2019 09:43:52 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 4
+[01-Jul-2019 09:44:03 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 8
+[01-Jul-2019 09:44:05 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 8
+[01-Jul-2019 09:44:06 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 8
+[01-Jul-2019 09:44:06 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 8
+[01-Jul-2019 09:44:06 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 8
+[01-Jul-2019 09:44:25 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 8
+[01-Jul-2019 09:44:38 UTC] PHP Notice:  Undefined index: email in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 3
+[01-Jul-2019 09:44:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shortcode() in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 4
+[01-Jul-2019 09:44:39 UTC] PHP Notice:  Undefined index: email in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 3
+[01-Jul-2019 09:44:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shortcode() in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 4
+[01-Jul-2019 09:44:52 UTC] PHP Notice:  Undefined index: email in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 3
+[01-Jul-2019 09:44:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shortcode() in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 4
+[01-Jul-2019 10:18:23 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 8
+[01-Jul-2019 10:18:24 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 8
+[01-Jul-2019 10:18:31 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 8
+[01-Jul-2019 10:18:37 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 8
+[01-Jul-2019 10:20:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function email_exists() in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 9
+[01-Jul-2019 10:20:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function email_exists() in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 9
+[01-Jul-2019 10:20:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function email_exists() in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 9
+[01-Jul-2019 10:20:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function email_exists() in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 9
+[01-Jul-2019 10:20:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function email_exists() in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 9
+[01-Jul-2019 10:20:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function email_exists() in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 9
+[01-Jul-2019 10:20:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function email_exists() in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 9
+[01-Jul-2019 10:20:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function email_exists() in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 9
+[01-Jul-2019 10:21:05 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 9
+[01-Jul-2019 10:21:07 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 9
+[01-Jul-2019 10:21:07 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN), expecting ',' or ';' in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 9
+[01-Jul-2019 10:21:33 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 5
+[01-Jul-2019 10:21:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shortcode() in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 3
+[01-Jul-2019 10:21:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shortcode() in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 3
+[01-Jul-2019 10:21:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_shortcode() in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/bizzsecure/public_html/dev/wp-content/themes/startit-child/email_check.php on line 3
