@@ -1,0 +1,2 @@
+[19-Nov-2018 18:10:14 UTC] PHP Fatal error:  Call to undefined function is_robots() in /home/bizzsecure/public_html/wp-includes/template-loader.php on line 28
+[14-Dec-2018 00:56:35 UTC] PHP Fatal error:  Class 'Walker' not found in /home/bizzsecure/public_html/wp-includes/class-walker-nav-menu.php on line 17
